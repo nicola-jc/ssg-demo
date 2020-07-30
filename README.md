@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to Nicola's page
+
+A page created by Nicola
 
 You can use the [editor on GitHub](https://github.com/nicola-jc/ssg-demo/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
